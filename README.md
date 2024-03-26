@@ -1,2 +1,2 @@
-# Terça-Randerson
- atividade poo
+# Terca-Randerson
+ atividade 
